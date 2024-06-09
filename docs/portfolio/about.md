@@ -1,3 +1,5 @@
+![Kitazawa's icon](https://u-kitazawa.github.io/kitazawa.dev/assets/Icon.svg)
+
 web アプリやネイティブアプリを中心に開発しています。
 
 デザインとフロントエンドの実装が好きです。
