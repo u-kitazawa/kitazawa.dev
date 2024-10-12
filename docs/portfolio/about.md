@@ -1,4 +1,4 @@
-![Kitazawa's icon](https://u-kitazawa.github.io/kitazawa.dev/assets/Icon.svg)
+![Kitazawa's icon](https://u-kitazawa.github.io/kitazawa.dev/assets/ogp.svg)
 
 web アプリやネイティブアプリを中心に開発しています。
 
